@@ -3,7 +3,7 @@ Software & Game Developer
 Currently studying software development at Tampere University of Applied Sciences
 
 ## SKILLS
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,html,css,git,github,godot,unity)](https://skillicons.dev)
 
 <!--
 **tommikiv/tommikiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
