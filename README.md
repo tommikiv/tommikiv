@@ -2,7 +2,7 @@
 - Software & Game Developer
 - Currently studying software development at Tampere University of Applied Sciences
 
-## SKILLS
+## TECH STACK
 [![My Skills](https://skillicons.dev/icons?i=cs,java,html,css,git,github,godot,unity)](https://skillicons.dev)
 
 <!--
