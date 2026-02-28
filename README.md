@@ -1,5 +1,5 @@
 ## ABOUT ME
-- Software & Game Developer
+- Software Developer
 - Currently studying software development at Tampere University of Applied Sciences
 
 ## TECH STACK
